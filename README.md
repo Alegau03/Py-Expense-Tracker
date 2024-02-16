@@ -36,6 +36,28 @@ Welcome to PyExpenseTracker, an application created with Python and Flet to mana
 - app.py: The main file containing the Flask application startup code.
 - /images/: Folder in which the charts are contained
 - /assets/: Folder in which are .csv files of expenses, income, accounts, and asset performance
+
+## Testing on Android
+To test the app on android since it is still in beta follow these steps:
+1. Install Flet app to your Android device. You will be using this app to see how your Flet project is working on Android device.
+2. It's recommended to start with the creation of a new virtual environment:
+     ```
+   python.exe -m venv
+   .venv  venv\Scripts\activate.bat```
+3. Next, install the latest flet package
+    ```
+    pip install flet --upgrade
+4. Create a new Flet project:
+   ```
+      flet create my-app
+      cd my-app
+5. Run the following command to start Flet development server with your app:
+   ```
+   flet run --android
+A QR code with encoded project URL will be displayed in the terminal.
+Open Camera app on your Android device, point to a QR code and click URL to open it in Flet app.    
+
+ 
 ## Contributions
 We are open to contributions and improvements. If you wish to contribute to FinanzApp, fork the repository, make your changes, and submit a pull request.
 
