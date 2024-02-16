@@ -54,7 +54,7 @@ To test the app on android since it is still in beta follow these steps:
 5. Run the following command to start Flet development server with your app:
    ```
    flet run --android
-A QR code with encoded project URL will be displayed in the terminal.
+A QR code with encoded project URL will be displayed in the terminal.  
 Open Camera app on your Android device, point to a QR code and click URL to open it in Flet app.    
 
  
