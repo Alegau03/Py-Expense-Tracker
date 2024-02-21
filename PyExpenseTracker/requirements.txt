@@ -1,0 +1,4 @@
+flet==0.20.0
+datetime==5.4
+pandas==2.0.2
+matplotlib==3.7.1
