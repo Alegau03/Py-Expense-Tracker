@@ -38,8 +38,8 @@ Welcome to PyExpenseTracker, an application created with Python and Flet to mana
   - /images/: Folder in which the charts are contained
 
 ## Testing the app
-To test the application use the qr code and download the installer.
-<img src="URL_dell'immagine" alt="Testo alternativo dell'immagine" width="larghezza_in_pixel">
+To test the application use the qr code and download the installer.<br>
+<img src="https://github.com/Alegau03/Py-Expense-Tracker/blob/main/PyExpenseTracker/qrcode.png" alt="Testo alternativo dell'immagine" width="300"> <br>
 
 
 
